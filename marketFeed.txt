@@ -1,0 +1,20 @@
+Custom:[{'symbol': 'NSE:SBIN-EQ', 'timestamp': 1684383206, 'fyCode': 7208,
+ 'fyFlag': 2, 'pktLen': 200, 'ltp': 587.5, 'open_price': 590.3, 
+'high_price': 590.4, 'low_price': 587.1, 'close_price': 586.3, 'min_open_price': 587.6, 
+'min_high_price': 587.6, 'min_low_price': 587.35, 
+'min_close_price': 587.5, 'min_volume': 44787, 'last_traded_qty': 20,
+ 'last_traded_time': 1684383206, 
+'avg_trade_price': 58900, 'vol_traded_today': 3392466, 
+'tot_buy_qty': 784013, 'tot_sell_qty': 1787500, 
+'market_pic': [
+ {'price': 587.4, 'qty': 130, 'num_orders': 2},
+ {'price': 587.29, 'qty': 2032, 'num_orders': 7},
+ {'price': 587.25, 'qty': 501, 'num_orders': 8}, 
+ {'price': 587.2, 'qty': 1738, 'num_orders': 21}, 
+ {'price': 587.15, 'qty': 1598, 'num_orders': 7},
+ {'price': 587.5, 'qty': 1769, 'num_orders': 9},
+ {'price': 587.54, 'qty': 11666, 'num_orders': 13},
+ {'price': 587.6, 'qty': 6850, 'num_orders': 11}, 
+ {'price': 587.65, 'qty': 6068, 'num_orders': 14}, 
+ {'price': 587.7, 'qty': 1477, 'num_orders': 9}]}
+]
